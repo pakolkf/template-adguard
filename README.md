@@ -180,7 +180,7 @@ Ejemplo:
 
 ## Recomendaciones
 
-- Cambiar la contraseña por defecto(```bash htpasswd -B -C 10 -n -b <USERNAME> <PASSWORD>```)
+- Cambiar la contraseña por defecto(```htpasswd -B -C 10 -n -b <USERNAME> <PASSWORD>```)
 - Restringir acceso web desde Internet
 - Habilitar HTTPS
 - Usar autenticación fuerte
